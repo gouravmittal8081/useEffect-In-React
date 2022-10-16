@@ -1,0 +1,4 @@
+useEffect in react => 
+
+
+jese ham class component me componentDidmount wagerah use krte hai vese hi function component me ham unhi ke jagah HOOKS ka use krte hai
